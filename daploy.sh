@@ -12,6 +12,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:koxa17/rickandmorty.git main:gh-pages
+git push -f git@github.com:koxa17/rickandmorty.git master:gh-pages
+
 
 cd -
